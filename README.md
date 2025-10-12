@@ -128,6 +128,7 @@ print(me.current_mission())
 
 ---
 
+<div align="center">
 ### 💡 *"Building the future, one line of code at a time, powered by AI"*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -141,5 +142,4 @@ print(me.current_mission())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </p>
-<div align="center">
 
