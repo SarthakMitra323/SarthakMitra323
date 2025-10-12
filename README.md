@@ -128,17 +128,18 @@ print(me.current_mission())
 
 ---
 
+### 💡 *"Building the future, one line of code at a time, powered by AI"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+
+**Thanks for visiting! Let's connect and collaborate! 🚀**
+
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </p>
 <div align="center">
 
-### 💡 *"Building the future, one line of code at a time, powered by AI"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-![Visitor Count](https://profile-counter.glitch.me/SarthakMitra323/count.svg)
-
-**Thanks for visiting! Let's connect and collaborate! 🚀**
-
-</div>
